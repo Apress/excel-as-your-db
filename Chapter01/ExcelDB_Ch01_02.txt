@@ -1,0 +1,9 @@
+Product ID,Product Description,Case Quantity,Wholesale Price Per Case, Retail Price Per Case,Notes
+001-352,Widget,1200,USD 6.00,USD 12.99,
+001-353,Grommet,1200,USD 5.00,USD 11.99,
+002-401,Bolt, 500,USD 3.00,USD 6.99,In Stock - On Back Order
+002-402,Casing,500,USD 2.00,USD 5.99,
+003-598,Nail,1728,USD 2.00,USD 4.99,
+003-599,Brad,1728,USD 1.00,USD 1.99,Out Of Stock - On Back Order
+003-600,Fastener,1728,USD 2.00,USD 3.99,
+004-999,Washer,3500,USD 2.00,USD 3.99,
